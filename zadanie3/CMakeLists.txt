@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(nazwa)
+include_directories(/root/Desktop/zadanie3)
+set(ZMIENNA main.cpp address.cpp employee.cpp address.h employee.h)
+add_executable(wykonywalny ${ZMIENNA})

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/wykonywalny.dir/main.cpp.o CMakeFiles/wykonywalny.dir/address.cpp.o CMakeFiles/wykonywalny.dir/employee.cpp.o  -o wykonywalny 
